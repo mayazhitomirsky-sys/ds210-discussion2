@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+Ctrl Alt Defeat
 
 ## Members
 
-- _nobody has signed on yet_
+Maya Zhitomirsky
