@@ -8,8 +8,16 @@ cargo run
 
 ## Crew name
 
+<<<<<<< HEAD
 Ctrl Alt Defeat
 
 ## Members
 
 Maya Zhitomirsky
+=======
+_powerpuff girls_
+
+## Members
+
+- _Ieva_
+>>>>>>> main
