@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+_powerpuff girls_
 
 ## Members
 
-- _nobody has signed on yet_
+- _Ieva_
